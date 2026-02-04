@@ -106,7 +106,7 @@ A detailed technical PDF is included in this repository, covering:
 - Reverse proxy setup
 - WAF onboarding and rule configuration
 - Attack execution and analysis
-> [View Document]
+> [View Document](vii_wafhomelab.pdf)
 
 ---
 
